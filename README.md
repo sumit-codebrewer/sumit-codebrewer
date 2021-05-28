@@ -3,12 +3,13 @@
 ## I am a Java Developer 
 
 <div align="center">
-<img src="https://github.com/sumit-codebrewer/sumit-codebrewer/icons/coder.gif" height="360px" width="640px" alt="gif">
+<img src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" height="360px" width="640px" alt="gif">
 </div>
 
 - 🔭 I’m currently working on my development skills.
 - 🌱 I’m currently learning DSA.
-- ⚡ Fun fact: I never predicted that coding would become my daiky habit!
+- 💻 I'm looking to collaborate with competitive coders
+- ⚡ Fun fact: I never predicted that coding would become my daily habit!
 
 ##
 
