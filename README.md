@@ -3,7 +3,7 @@
 ## I am a Java Developer 
 
 <div align="center">
-<img src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" height="360px" width="480px" alt="gif">
+<img src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" height="360px" width="480px" alt="gif">
 </div>
 <br>
 
