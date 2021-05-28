@@ -1,9 +1,9 @@
-### Hi there, I'm Sumit aka sumit-codebrewer 👋
+##### Hi there, I'm Sumit aka sumit-codebrewer 👋
 
 ##I am a Java Developer
 
 <div align="center">
-<img src="https://github.com/sumit-codebrewer/sumit-codebrewer/blob/master/icons/coder.gif" height="360px" width="640px" alt="gif"/
+<img src="https://github.com/sumit-codebrewer/sumit-codebrewer/icons/coder.gif" height="360px" width="640px" alt="gif"/
 </div>
 
 - 🔭 I’m currently working on my development skills.
