@@ -22,7 +22,7 @@
 <code><img alt="Git" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/git-icon.svg" title="Git"/></code>
 <code><img alt="GitHub" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/github-icon.svg" 
 title="GitHub"/></code>
-<code><img alt="GitHub" height="40px" width="40px" src="<code><img alt="GitHub" height="40px" width="40px" src="https://github.com/tomchen/stack-icons/blob/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/eclipse.svg" 
+<code><img alt="Eclipse" height="40px" width="40px" src="<code><img alt="GitHub" height="40px" width="40px" src="https://github.com/tomchen/stack-icons/blob/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/eclipse.svg" 
 title="Eclipse"/></code>
 </div>
 <br>
