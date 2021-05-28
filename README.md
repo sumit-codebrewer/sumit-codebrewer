@@ -22,6 +22,8 @@
 <code><img alt="Git" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/git-icon.svg" title="Git"/></code>
 <code><img alt="GitHub" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/github-icon.svg" 
 title="GitHub"/></code>
+<code><img alt="GitHub" height="40px" width="40px" src="<code><img alt="GitHub" height="40px" width="40px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/github-icon.svg" 
+title="Eclipse"/></code>
 </div>
 <br>
 
