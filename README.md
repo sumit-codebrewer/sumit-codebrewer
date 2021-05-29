@@ -36,7 +36,7 @@
 </div>
 <br />
 
-# <img src="https://media0.giphy.com/media/XaLnoepP2IwFnUXdvb/200w.webp?cid=ecf05e4730jh2hoort3c620k8r70w7m8izhnuysz16mr4n1x&rid=200w.webp&ct=g" width="50" draggable="false"> About me
+# <img src="https://media1.giphy.com/media/iddm3qLpC8x3djZDSm/200.webp?cid=ecf05e4730jh2hoort3c620k8r70w7m8izhnuysz16mr4n1x&rid=200.webp&ct=g" width="50" draggable="false"> About me
 
 
 - 🔭 I’m currently working on my development skills.
