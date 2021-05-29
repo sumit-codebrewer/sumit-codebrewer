@@ -7,6 +7,11 @@
 </div>
 <br>
 <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=sumit-codebrewer&label=Profile%20views&color=0e75b6&style=flat"
+        alt="sumit-codebrwer" />
+
+</div>
+<div align="center">
 <a href="https://www.linkedin.com/in/sumit-chutani-aab427190/">
         <img align="left" alt="Sumit's LinkdeIN" width="30px"
             src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
