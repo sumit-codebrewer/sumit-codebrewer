@@ -62,7 +62,8 @@ title="Eclipse"/></code>
 
 <br/>
 <br/>
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sumit-codebrewer&show_icons=true&theme=radical)
+
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanyamdtu&show_icons=true&theme=radical)
 </div>
 
 
