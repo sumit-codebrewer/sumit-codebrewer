@@ -10,7 +10,6 @@
     <img src="https://komarev.com/ghpvc/?username=sumit-codebrewer&label=Profile%20views&color=0e75b6&style=flat"
         alt="sumit-codebrewer" />
 </div>
-<br>
 <hr>
 <div align="center">
 <a href="https://www.linkedin.com/in/sumit-chutani-aab427190/">
@@ -60,8 +59,8 @@ title="Eclipse"/></code>
 <code><img alt="C++" height="40px" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" title="C++"/></code>
 <code><img alt="C" height="40px" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C"/></code>
 
-<br/>
-
+<br>
+<br>
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sumit-codebrewer&show_icons=true&theme=radical)
 </div>
 
