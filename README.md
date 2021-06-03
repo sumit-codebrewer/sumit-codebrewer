@@ -63,7 +63,7 @@ title="Eclipse"/></code>
 <br/>
 <br/>
 
- ![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=sumit-codebrewer&show_icons=true&theme=radical)
+<div align="center">
+<img  alt="Sumit Codebrewer's Stats" src="https://github-readme-stats-sumit-codebrewer.vercel.app/api?username=sumit-codebrewer&show_icons=true&bg_color=FFFFFF&title_color=003140&icon_color=003140&text_color=0486AA" title="Stats"/>
 </div>
-
 
