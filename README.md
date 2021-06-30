@@ -64,6 +64,12 @@ title="Eclipse"/></code>
 <br/>
     
 <!--RECENT_ACTIVITY:start-->
+1. 🔱 Forked [sumit-codebrewer/CryptoSingh1337](https://github.com/sumit-codebrewer/CryptoSingh1337) from [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)
+2. 💪 Opened PR [#5](https://github.com/CryptoSingh1337/Notepad/pull/5) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
+3. 🔱 Forked [sumit-codebrewer/Notepad](https://github.com/sumit-codebrewer/Notepad) from [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
+4. 🔱 Forked [sumit-codebrewer/fb-post-deletor](https://github.com/sumit-codebrewer/fb-post-deletor) from [hasankhan/fb-post-deletor](https://github.com/hasankhan/fb-post-deletor)
+5. ⭐ Starred [hasankhan/fb-post-deletor](https://github.com/hasankhan/fb-post-deletor)
+<!--RECENT_ACTIVITY:end-->
 
 ![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=sumit-codebrewer&show_icons=true&theme=radical)
 
