@@ -62,6 +62,10 @@ title="Eclipse"/></code>
 
 <br/>
 <br/>
+
+ </div>
+    
+### ⚡ Recent GitHub Activity
     
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [sumit-codebrewer/CryptoSingh1337](https://github.com/sumit-codebrewer/CryptoSingh1337) from [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)
@@ -71,6 +75,8 @@ title="Eclipse"/></code>
 5. ⭐ Starred [hasankhan/fb-post-deletor](https://github.com/hasankhan/fb-post-deletor)
 <!--RECENT_ACTIVITY:end-->
 
+<div align="center">
+    
 ![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=sumit-codebrewer&show_icons=true&theme=radical)
 
 </div>
