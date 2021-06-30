@@ -62,6 +62,8 @@ title="Eclipse"/></code>
 
 <br/>
 <br/>
+    
+<!--RECENT_ACTIVITY:start-->
 
 ![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=sumit-codebrewer&show_icons=true&theme=radical)
 
