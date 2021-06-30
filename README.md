@@ -68,11 +68,11 @@ title="Eclipse"/></code>
 ### ⚡ Recent GitHub Activity
     
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1](https://github.com/S07K/tribute-page/issues/1) in [S07K/tribute-page](https://github.com/S07K/tribute-page)
-2. 🔱 Forked [sumit-codebrewer/CryptoSingh1337](https://github.com/sumit-codebrewer/CryptoSingh1337) from [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)
-3. 💪 Opened PR [#5](https://github.com/CryptoSingh1337/Notepad/pull/5) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
-4. 🔱 Forked [sumit-codebrewer/Notepad](https://github.com/sumit-codebrewer/Notepad) from [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
-5. 🔱 Forked [sumit-codebrewer/fb-post-deletor](https://github.com/sumit-codebrewer/fb-post-deletor) from [hasankhan/fb-post-deletor](https://github.com/hasankhan/fb-post-deletor)
+1. 💪 Opened PR [#2](https://github.com/S07K/tribute-page/pull/2) in [S07K/tribute-page](https://github.com/S07K/tribute-page)
+2. 🔱 Forked [sumit-codebrewer/tribute-page](https://github.com/sumit-codebrewer/tribute-page) from [S07K/tribute-page](https://github.com/S07K/tribute-page)
+3. ❗️ Opened issue [#1](https://github.com/S07K/tribute-page/issues/1) in [S07K/tribute-page](https://github.com/S07K/tribute-page)
+4. 🔱 Forked [sumit-codebrewer/CryptoSingh1337](https://github.com/sumit-codebrewer/CryptoSingh1337) from [CryptoSingh1337/CryptoSingh1337](https://github.com/CryptoSingh1337/CryptoSingh1337)
+5. 💪 Opened PR [#5](https://github.com/CryptoSingh1337/Notepad/pull/5) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
