@@ -75,6 +75,7 @@ title="Eclipse"/></code>
 5. 💪 Opened PR [#5](https://github.com/CryptoSingh1337/Notepad/pull/5) in [CryptoSingh1337/Notepad](https://github.com/CryptoSingh1337/Notepad)
 <!--RECENT_ACTIVITY:end-->
 
+
 <div align="center">
     
 ![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=sumit-codebrewer&show_icons=true&theme=radical)
