@@ -68,11 +68,11 @@ title="Eclipse"/></code>
 ### ⚡ Recent GitHub Activity
     
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#5](https://github.com/Vaibhavgupta05/Healthy-Me/issues/5) in [Vaibhavgupta05/Healthy-Me](https://github.com/Vaibhavgupta05/Healthy-Me)
-2. ⭐ Starred [IamRiddhi/Block-Breaker-Game-Using-JAVA](https://github.com/IamRiddhi/Block-Breaker-Game-Using-JAVA)
-3. ❗️ Opened issue [#5](https://github.com/Vaibhavgupta05/Healthy-Me/issues/5) in [Vaibhavgupta05/Healthy-Me](https://github.com/Vaibhavgupta05/Healthy-Me)
-4. ⭐ Starred [sumit-codebrewer/Tic-Tac-Toe](https://github.com/sumit-codebrewer/Tic-Tac-Toe)
-5. 💪 Opened PR [#2](https://github.com/S07K/tribute-page/pull/2) in [S07K/tribute-page](https://github.com/S07K/tribute-page)
+1. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+2. ✔️ Closed issue [#5](https://github.com/Vaibhavgupta05/Healthy-Me/issues/5) in [Vaibhavgupta05/Healthy-Me](https://github.com/Vaibhavgupta05/Healthy-Me)
+3. ⭐ Starred [IamRiddhi/Block-Breaker-Game-Using-JAVA](https://github.com/IamRiddhi/Block-Breaker-Game-Using-JAVA)
+4. ❗️ Opened issue [#5](https://github.com/Vaibhavgupta05/Healthy-Me/issues/5) in [Vaibhavgupta05/Healthy-Me](https://github.com/Vaibhavgupta05/Healthy-Me)
+5. ⭐ Starred [sumit-codebrewer/Tic-Tac-Toe](https://github.com/sumit-codebrewer/Tic-Tac-Toe)
 <!--RECENT_ACTIVITY:end-->
 
 <br>
