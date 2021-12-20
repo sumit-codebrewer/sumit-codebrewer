@@ -16,14 +16,15 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/sumit-chutani-aab427190/">
         <img align="left" alt="Sumit's LinkdeIN" width="30px"
-            src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
+            src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"
+               draggable="false"/> 
     </a>
     <a href="https://www.facebook.com/profile.php?id=100010039817675">
         <img align="left" alt="Sumit's Facebook" width="30px"
-            src="https://image.flaticon.com/icons/svg/2111/2111342.svg" draggable="false" />
+            src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-facebook-social-media-justicon-flat-justicon.png" draggable="false" />
     </a>
     <a href="https://github.com/sumit-codebrewer">
-        <img align="left" alt="Sumit's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg"
+        <img align="left" alt="Sumit's github" width="30px" src="https://img.icons8.com/material-outlined/24/000000/github.png"
             draggable="false" />
     </a>
     <a href="https://www.hackerrank.com/sumitengineer23">
@@ -31,7 +32,7 @@
             src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
     </a>
     <a href="sumitchutani50@gmail.com">
-        <img align="left" alt="Sumit's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg"
+        <img align="left" alt="Sumit's gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png"
             draggable="false" />
     </a>
 </div>
