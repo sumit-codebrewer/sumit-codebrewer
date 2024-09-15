@@ -68,7 +68,6 @@ title="Eclipse"/></code>
 
  </div>
 
-    
 ### ⚡ Recent GitHub Activity
     
 <!--RECENT_ACTIVITY:start-->
