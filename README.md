@@ -78,10 +78,50 @@ title="Eclipse"/></code>
 5. ⭐ Starred [IamRiddhi/Block-Breaker-Game-Using-JAVA](https://github.com/IamRiddhi/Block-Breaker-Game-Using-JAVA)
 <!--RECENT_ACTIVITY:end-->
 
-<br>
-<div align="center">
-    
-![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=sumit-codebrewer&show_icons=true&theme=radical)
+[![wakatime](https://wakatime.com/badge/user/b9df6102-292d-4e04-8c49-0347a58ded19.svg)](https://wakatime.com/@b9df6102-292d-4e04-8c49-0347a58ded19)
+<!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 📦 226.2 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                378 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+🌆 Daytime                2303 commits        ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+🌃 Evening                4666 commits        █████████████░░░░░░░░░░░░   51.44 % 
+🌙 Night                  1724 commits        █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Java                     9 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+Go                       1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+
+🔥 Editors: 
+IntelliJ IDEA            30 hrs 32 mins      ████████████████████████░   96.45 % 
+VS Code                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Sublime Text             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+
+💻 Operating System: 
+Windows                  20 hrs 16 mins      ████████████████░░░░░░░░░   64.03 % 
+Mac                      11 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   35.97 % 
+```
+
+
+ Last Updated on 28/04/2025 02:07:23 UTC
 
 </div>
 
