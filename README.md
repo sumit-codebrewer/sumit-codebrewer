@@ -28,10 +28,6 @@
         <img align="left" alt="Sumit's github" width="30px" src="https://img.icons8.com/material-outlined/24/000000/github.png"
             draggable="false" />
     </a>
-    <a href="https://www.hackerrank.com/sumitengineer23">
-        <img align="left" alt="Sumit's hackerrank" width="30px"
-            src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
-    </a>
     <a href="sumitchutani50@gmail.com">
         <img align="left" alt="Sumit's gmail" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png"
             draggable="false" />
